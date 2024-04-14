@@ -1,0 +1,86 @@
+C:\Users\user\Desktop\4 Course\Course4\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион марок.csprojAssemblyReference.cache
+C:\Users\user\Desktop\4 Course\Course4\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.All_Class.resources
+C:\Users\user\Desktop\4 Course\Course4\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.All_signs.resources
+C:\Users\user\Desktop\4 Course\Course4\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Change_class.resources
+C:\Users\user\Desktop\4 Course\Course4\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Class.resources
+C:\Users\user\Desktop\4 Course\Course4\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Main.resources
+C:\Users\user\Desktop\4 Course\Course4\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.New_Class.resources
+C:\Users\user\Desktop\4 Course\Course4\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.New_signs.resources
+C:\Users\user\Desktop\4 Course\Course4\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Properties.Resources.resources
+C:\Users\user\Desktop\4 Course\Course4\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Redactor.resources
+C:\Users\user\Desktop\4 Course\Course4\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Сhange_signes.resources
+C:\Users\user\Desktop\4 Course\Course4\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион марок.csproj.GenerateResource.cache
+C:\Users\user\Desktop\4 Course\Course4\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион марок.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\4 Course\Course4\2 семестр\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\bin\Debug\ИС.Аукцион марок.exe
+C:\Users\user\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\bin\Debug\ИС.Аукцион марок.exe
+C:\Users\user\Desktop\4 Course\Course4\2 семестр\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\bin\Debug\ИС.Аукцион марок.exe.config
+C:\Users\user\Desktop\4 Course\Course4\2 семестр\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Change_class.resources
+C:\Users\user\Desktop\4 Course\Course4\2 семестр\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Change_singnes.resources
+C:\Users\user\Desktop\4 Course\Course4\2 семестр\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Class.resources
+C:\Users\user\Desktop\4 Course\Course4\2 семестр\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Forms.DelClass.resources
+C:\Users\user\Desktop\4 Course\Course4\2 семестр\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Main.resources
+C:\Users\user\Desktop\4 Course\Course4\2 семестр\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Forms.NewClass.resources
+C:\Users\user\Desktop\4 Course\Course4\2 семестр\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Properties.Resources.resources
+C:\Users\user\Desktop\4 Course\Course4\2 семестр\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Redactor.resources
+C:\Users\user\Desktop\4 Course\Course4\2 семестр\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Result.resources
+C:\Users\user\Desktop\4 Course\Course4\2 семестр\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион марок.csproj.GenerateResource.cache
+C:\Users\user\Desktop\4 Course\Course4\2 семестр\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион марок.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\4 Course\Course4\2 семестр\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион марок.exe
+C:\Users\user\Desktop\4 Course\Course4\2 семестр\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион марок.pdb
+C:\Users\user\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\bin\Debug\Mark.mdb
+C:\Users\user\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\bin\Debug\ИС.Аукцион марок.exe.config
+C:\Users\user\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Change_class.resources
+C:\Users\user\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Change_singnes.resources
+C:\Users\user\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Class.resources
+C:\Users\user\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Forms.DelClass.resources
+C:\Users\user\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Main.resources
+C:\Users\user\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Forms.NewClass.resources
+C:\Users\user\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Properties.Resources.resources
+C:\Users\user\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Redactor.resources
+C:\Users\user\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Result.resources
+C:\Users\user\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион марок.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион марок.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион марок.exe
+C:\Users\user\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион марок.pdb
+C:\Users\user\Desktop\ИС.Аукцион марок — копия\ИС.Аукцион марок\bin\Debug\Mark.mdb
+C:\Users\user\Desktop\ИС.Аукцион марок — копия\ИС.Аукцион марок\bin\Debug\ИС.Аукцион марок.exe.config
+C:\Users\user\Desktop\ИС.Аукцион марок — копия\ИС.Аукцион марок\bin\Debug\ИС.Аукцион марок.exe
+C:\Users\user\Desktop\ИС.Аукцион марок — копия\ИС.Аукцион марок\bin\Debug\ИС.Аукцион марок.pdb
+C:\Users\user\Desktop\ИС.Аукцион марок — копия\ИС.Аукцион марок\obj\Debug\ИС.Аукцион марок.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ИС.Аукцион марок — копия\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Change_class.resources
+C:\Users\user\Desktop\ИС.Аукцион марок — копия\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Change_singnes.resources
+C:\Users\user\Desktop\ИС.Аукцион марок — копия\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Class.resources
+C:\Users\user\Desktop\ИС.Аукцион марок — копия\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Forms.DelClass.resources
+C:\Users\user\Desktop\ИС.Аукцион марок — копия\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Main.resources
+C:\Users\user\Desktop\ИС.Аукцион марок — копия\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Forms.NewClass.resources
+C:\Users\user\Desktop\ИС.Аукцион марок — копия\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Properties.Resources.resources
+C:\Users\user\Desktop\ИС.Аукцион марок — копия\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Redactor.resources
+C:\Users\user\Desktop\ИС.Аукцион марок — копия\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Result.resources
+C:\Users\user\Desktop\ИС.Аукцион марок — копия\ИС.Аукцион марок\obj\Debug\ИС.Аукцион марок.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ИС.Аукцион марок — копия\ИС.Аукцион марок\obj\Debug\ИС.Аукцион марок.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ИС.Аукцион марок — копия\ИС.Аукцион марок\obj\Debug\ИС.Аукцион марок.exe
+C:\Users\user\Desktop\ИС.Аукцион марок — копия\ИС.Аукцион марок\obj\Debug\ИС.Аукцион марок.pdb
+C:\Users\user\Desktop\4 Course\Course4\2 семестр\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\bin\Debug\ИС.Аукцион марок.pdb
+C:\Users\user\Desktop\4 Course\Course4\2 семестр\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион марок.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\bin\Debug\ИС.Аукцион марок.pdb
+C:\Users\user\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион марок.csprojAssemblyReference.cache
+C:\Users\user\Desktop\4 Course\Course4\2 семестр\Интелектуализация систем\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.NewSingnes.resources
+C:\Users\Шарикова\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\bin\Debug\ИС.Аукцион марок.exe.config
+C:\Users\Шарикова\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\bin\Debug\ИС.Аукцион марок.exe
+C:\Users\Шарикова\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\bin\Debug\ИС.Аукцион марок.pdb
+C:\Users\Шарикова\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион марок.csproj.AssemblyReference.cache
+C:\Users\Шарикова\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион марок.csproj.SuggestedBindingRedirects.cache
+C:\Users\Шарикова\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Change_class.resources
+C:\Users\Шарикова\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Change_singnes.resources
+C:\Users\Шарикова\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Class.resources
+C:\Users\Шарикова\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Forms.DelClass.resources
+C:\Users\Шарикова\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Main.resources
+C:\Users\Шарикова\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Forms.NewClass.resources
+C:\Users\Шарикова\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.NewSingnes.resources
+C:\Users\Шарикова\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Properties.Resources.resources
+C:\Users\Шарикова\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Redactor.resources
+C:\Users\Шарикова\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион_марок.Result.resources
+C:\Users\Шарикова\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион марок.csproj.GenerateResource.cache
+C:\Users\Шарикова\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион марок.csproj.CoreCompileInputs.cache
+C:\Users\Шарикова\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион марок.exe
+C:\Users\Шарикова\Desktop\ИС.Аукцион марок\ИС.Аукцион марок\obj\Debug\ИС.Аукцион марок.pdb
